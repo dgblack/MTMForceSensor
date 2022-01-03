@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\david\Downloads\Altium-20210714T164335Z-001\Altium\Hall_Sensors_FlexPCB\IMTM-Flex\IMTM-Right-PCB03.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.89
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,12 @@
+<launch>
+	<arg name='master_name' default='MTMR'/>
+	<arg name='slave_name' default='PSM1'/>
+
+	<param name='master_name' value="$(arg master_name)"/>
+	<param name='slave_name' value="$(arg slave_name)"/>
+	
+	<include file="$(find ati)/launch/ati.launch"/>
+
+	<node pkg="joystick" type="joystick.py" name="joystick" output="screen"/>
+
+</launch>

@@ -1,0 +1,276 @@
+*************************************************************
+FileName = IMTM-Right-PCB01.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay
+      File : IMTM-Right-PCB01.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Titleblock
+      File : IMTM-Right-PCB01.GM16
+
+    Adding Layer      : Titleblock
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : IMTM-Right-PCB01.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : IMTM-Right-PCB01.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : IMTM-Right-PCB01.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mech Drawing
+      File : IMTM-Right-PCB01.GM4
+
+    Adding Layer      : Mech Drawing
+
+
+Used DCodes :
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : IMTM-Right-PCB01.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D23
+    D24
+    D25
+    D26
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : IMTM-Right-PCB01.2
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Component Body
+      File : IMTM-Right-PCB01.GM13
+
+    Adding Layer      : Component Body
+
+
+Used DCodes :
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : IMTM-Right-PCB01.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D20
+    D21
+    D22
+    D33
+*************************************************************
+
+*************************************************************
+Generating : GND Layer
+      File : IMTM-Right-PCB01.GP1
+
+    Adding Layer      : GND Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Component Outline
+      File : IMTM-Right-PCB01.GM15
+
+    Adding Layer      : Component Outline
+
+
+Used DCodes :
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : IMTM-Right-PCB01.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : IMTM-Right-PCB01.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : IMTM-Right-PCB01.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D34
+    D38
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : IMTM-Right-PCB01.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : IMTM-Right-PCB01.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : IMTM-Right-PCB01.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : IMTM-Right-PCB01.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D32
+*************************************************************
+

@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[IMTM-Right-PCB01.RUL]
+   Generated File[IMTM-Right-PCB01.EXTREP]
+   Generated File[IMTM-Right-PCB01.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:35:33 PM On 7/16/2021

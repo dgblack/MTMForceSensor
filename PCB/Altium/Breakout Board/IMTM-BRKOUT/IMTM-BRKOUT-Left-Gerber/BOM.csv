@@ -1,0 +1,5 @@
+Units used: mm,,,,
+,,,,
+Quantity,Comment,Layer,Footprint,Description
+1,CONN FFC FPC 8POS 0.5MM R/A,BottomLayer,PCBComponent_1,CONN FFC FPC 8POS 0.5MM R/A
+1,B10B-PHDSS(LF)(SN)(P),BottomLayer,B10B-PHDSS(LF)(SN)(P),"JST (JAPAN SOLDERLESS TERMINALS) - B10B-PHDSS(LF)(SN)(P) - CONNECTOR, HEADER, 10POS, 2MM, 2ROW"

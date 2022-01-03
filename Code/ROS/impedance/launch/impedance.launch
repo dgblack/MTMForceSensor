@@ -1,0 +1,17 @@
+<launch>
+	<arg name='serial' default='FT24092'/>
+	<arg name='comedi_num' default='0'/>
+	<arg name='rate' default='1500'/>
+	<arg name='master_name' default='MTMR'/>
+
+	<param name='path' value="$(find impedance)"/>
+	<param name='serial' value="$(arg serial)"/>
+	<param name='comedi_num' value="$(arg comedi_num)"/>
+	<param name='rate' value="$(arg rate)"/>
+
+	<param name='master_name' value="$(arg master_name)"/>
+
+	<node pkg="impedance" type="impedance.py" name="impedance" output="screen"/>
+	<node pkg="impedance" type="gui.py" name="impedance_gui" output="screen"/>
+	<node pkg="impedance" type="force_control.py" name="force_control" output="screen"/>
+</launch>

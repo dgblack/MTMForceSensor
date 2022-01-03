@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: IMTM-Right-PCB03.GBR   7/19/2021  9:33:35 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Flex Top Overlay                        
+.GTP                Top Paste                               
+.GTS                Flex Top Coverlay                       
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Bottom Coverlay                         
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                DXF Board Layout                        
+.GM2                Split Lines                             
+.GM3                Bending Lines                           
+.GM4                Mech Dimensions                         
+.GM13               Component Body                          
+.GM15               Component Outline                       
+.GM18               Top 3D Body                             
+.GM19               Bottom 3D Body                          
+.GM32               Titleblock                              
+.GKO                Keep-Out Layer                          
+.1                  Polyimide                               
+.GML                Multi-Layer                             
+------------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+<launch>
+	<arg name='rate' default='250'/>
+
+	<param name='path' value="$(find impedance)"/>
+
+	<include file="$(find ati)/launch/ati.launch" pass_all_args="true"/>
+
+	<node pkg="impedance" type="impedance2.py" name="impedance" output="screen"/>
+	<node pkg="impedance" type="gui.py" name="impedance_gui" output="screen"/>
+</launch>

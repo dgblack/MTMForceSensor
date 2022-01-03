@@ -1,0 +1,9 @@
+<launch>
+	<arg name='armName' default='MTMR'/>
+	<param name='armName' value="$(arg armName)"/>
+	
+	<include file="$(find ati)/launch/ati.launch"/>
+
+	<node pkg="mtm_force_unlock" type="mtm_force_unlock.py" name="mtm_force_unlock" output="screen"/>
+
+</launch>

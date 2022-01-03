@@ -1,0 +1,15 @@
+<launch>
+	<arg name='master_name' default='MTMR'/>
+	<arg name='ecm_name' default='ECM'/>
+	<arg name='node_type' default='normal'/>
+
+	<param name='master_name' value="$(arg master_name)"/>
+	<param name='ecm_name' value="$(arg ecm_name)"/>
+	
+	<include file="$(find ati)/launch/ati.launch" if="$(eval arg('node_type').lower() != 'effort')"/>
+
+	<node pkg="joystick" type="joystick_ecm.py" name="joystick_ecm" output="screen"  if="$(eval arg('node_type').lower() == 'normal')"/>
+	<node pkg="joystick" type="joystick_ecm_sign.py" name="joystick_ecm" output="screen" if="$(eval arg('node_type').lower() == 'sign')"/>
+	<node pkg="joystick" type="joystick_ecm_effort.py" name="joystick_ecm" output="screen" if="$(eval arg('node_type').lower() == 'effort')"/>
+
+</launch>

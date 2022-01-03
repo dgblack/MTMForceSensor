@@ -1,0 +1,383 @@
+*************************************************************
+FileName = IMTM-Right-PCB03.GBR
+AutoAperture = True
+*************************************************************
+Generating : Multi-Layer
+      File : IMTM-Right-PCB03.GML
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : IMTM-Right-PCB03.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Flex Top Coverlay
+      File : IMTM-Right-PCB03.GTS
+
+    Adding Layer      : Flex Top Coverlay
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Component Body
+      File : IMTM-Right-PCB03.GM13
+
+    Adding Layer      : Component Body
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Polyimide
+      File : IMTM-Right-PCB03.1
+
+    Adding Layer      : Polyimide
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Coverlay
+      File : IMTM-Right-PCB03.GBS
+
+    Adding Layer      : Bottom Coverlay
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : IMTM-Right-PCB03.GM18
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Titleblock
+      File : IMTM-Right-PCB03.GM32
+
+    Adding Layer      : Titleblock
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+    D21
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : IMTM-Right-PCB03.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mech Dimensions
+      File : IMTM-Right-PCB03.GM4
+
+    Adding Layer      : Mech Dimensions
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Split Lines
+      File : IMTM-Right-PCB03.GM2
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : IMTM-Right-PCB03.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : IMTM-Right-PCB03.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : IMTM-Right-PCB03.GM19
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Component Outline
+      File : IMTM-Right-PCB03.GM15
+
+    Adding Layer      : Component Outline
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bending Lines
+      File : IMTM-Right-PCB03.GM3
+
+    Adding Layer      : Bending Lines
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : DXF Board Layout
+      File : IMTM-Right-PCB03.GM1
+
+    Adding Layer      : DXF Board Layout
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : IMTM-Right-PCB03.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Flex Top Overlay
+      File : IMTM-Right-PCB03.GTO
+
+    Adding Layer      : Flex Top Overlay
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : IMTM-Right-PCB03.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Split Lines
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+

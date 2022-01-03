@@ -1,0 +1,6 @@
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+J1,687108182122_matingPad,TopLayer,687108182122_MATINGPAD,2.25,1.524,0,
+A1,DRV5055A2QLPGM,TopLayer,DRV5055A2QLPGM,-198.4,51.1276,360,"Texas Instruments - DRV5055A2QLPGM - Hall Effect Sensor, Linear"
+A2,DRV5055A2QLPGM,TopLayer,DRV5055A2QLPGM,-198.4,60.5276,180,"Texas Instruments DRV5055A2QLPGM - Hall Effect Sensor, Linear"

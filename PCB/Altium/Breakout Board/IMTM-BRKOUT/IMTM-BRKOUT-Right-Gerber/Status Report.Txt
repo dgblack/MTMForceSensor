@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IMTM-BRKOUT.PrjPcb]
+   Generated File[IMTM-Right-PCB01.TXT]
+   Generated File[IMTM-Right-PCB01.DRL]
+   Generated File[IMTM-Right-PCB01.LDP]
+   Generated File[IMTM-Right-PCB01.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:15:23 PM On 7/19/2021

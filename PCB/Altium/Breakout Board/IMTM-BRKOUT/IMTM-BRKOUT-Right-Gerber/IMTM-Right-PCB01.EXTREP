@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: IMTM-Right-PCB01.GBR   7/19/2021  8:14:52 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GP1                GND Layer                               
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM4                Mech Drawing                            
+.GM13               Component Body                          
+.GM15               Component Outline                       
+.GM16               Titleblock                              
+.GKO                Keep-Out Layer                          
+.1                  Dielectric 1                            
+.2                  Dielectric 2                            
+.GML                Multi-Layer                             
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------
